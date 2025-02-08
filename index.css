@@ -1,0 +1,57 @@
+.carousel-indicators button{
+  width: 10px !important;
+  height: 10px !important; 
+  background-color: #434343;
+  border-radius: 50%;
+  border: none;
+  margin: 0 5px; 
+}
+.carousel-indicators button.active {
+    background-color: #27CCC0 !important; 
+  }
+.col-bg-1{
+    background-color:#07ACA0 ;
+}
+.col-bg-2{
+    background-color: #17BCB0;
+}
+.col-bg-3{
+    background-color: #27CCC0;
+}
+.fa-thumbs-up,.fa-plane,.fa-message{
+    font-size: x-large;
+}
+.card-body .content {
+    background-color: #1FB4A9;
+    display: inline-block;
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    padding-top: 14px;
+    border-radius: 50%;
+}
+.bg-header-1{
+    background-color: #07ACA0;
+}
+.bg-header-2{
+    background-color: #27CCC0;
+}
+.card-price{
+    background-color: #E2E2E2;
+}
+.fa-check{
+    font-size: larger;
+    color: #AADB3C;
+}
+.fa-house,.fa-phone,.fa-envelope{
+    color: #1FB4A9;
+}
+.btn-color{
+    background-color: #07ACA0;
+}
+.filter{
+    opacity: 0.1;
+}
+.filter:hover{
+    opacity: 1;
+}
